@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.gihub.hegdepranav21","c":"MathOperation2","l":"add(int, int)","url":"add(int,int)"},{"p":"com.gihub.hegdepranav21","c":"MathOperation2","l":"MathOperation2()","url":"%3Cinit%3E()"},{"p":"com.gihub.hegdepranav21","c":"MathOperation2","l":"sub(int, int)","url":"sub(int,int)"}]
